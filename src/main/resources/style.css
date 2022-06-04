@@ -1,0 +1,10 @@
+#group{
+-fx-background-image: url("/background.jpg");
+-fx-background-repeat: stretch;
+-fx-background-size: 1350 680;
+-fx-background-position:center center;
+}
+
+#cancel{
+
+}
